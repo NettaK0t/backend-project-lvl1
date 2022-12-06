@@ -1,4 +1,4 @@
-Учебный проект по JS "Игры разума".
+<h2>Учебный проект по JS "Игры разума".</h2>
 
 ### Hexlet tests and linter status:
 
@@ -6,7 +6,7 @@
 
 <a href="https://codeclimate.com/github/NettaK0t/backend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/66eedfeea362a15b60f4/maintainability" /></a>
 
-<h1>Для установки пакета необходимо:</h1>
+<h2>Для установки пакета необходимо:</h2>
 <ul>
  <li>клонировать репозиторий</li>
  <li>установить npm (команда make install из корневого каталога)</li>
@@ -14,8 +14,8 @@
 </ul>
 
 <h2>Демонстрация установки пакета "Игры разума":</h2>
-<script id="asciicast-unVxndm68NAHjFYJUjCo08616" src="https://asciinema.org/a/unVxndm68NAHjFYJUjCo08616.js" async></script>
-<h1>Теперь можно запустить следующие игры:</h1>
+<a href="https://asciinema.org/a/unVxndm68NAHjFYJUjCo08616" target="_blank"><img src="https://asciinema.org/a/unVxndm68NAHjFYJUjCo08616.svg" /></a>
+<h3>Теперь можно запустить следующие игры:</h3>
 
 <h2>Игра "Проверка на чётность"</h2>
 Запуск игры: brain-even
@@ -23,4 +23,4 @@
 Необходимо определить четное ли число. Ответьте «yes», если число четное, иначе ответьте «no».
 
 <h2>Демонстрация игры "Проверка на чётность":</h2>
-[![asciicast](https://asciinema.org/a/UIFkT9S5kP4Vqq8vkcJ6BYLhb.svg)](https://asciinema.org/a/UIFkT9S5kP4Vqq8vkcJ6BYLhb)
+<a href="https://asciinema.org/a/UIFkT9S5kP4Vqq8vkcJ6BYLhb" target="_blank"><img src="https://asciinema.org/a/UIFkT9S5kP4Vqq8vkcJ6BYLhb.svg" /></a>
