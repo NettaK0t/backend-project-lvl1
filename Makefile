@@ -7,6 +7,6 @@ brain-even:
 publish: 
 	npm publish --dry-run --registry myregistry
 install:
-	npm ci
+	npm install
 lint:
 	npx eslint .
