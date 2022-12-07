@@ -10,6 +10,7 @@ const getQuestionAndAnswer = () => {
   const answer = isEvenNumber(question) ? 'yes' : 'no';
   return [question, answer];
 };
+
 const initGameEven = () => {
   playGame(rule, getQuestionAndAnswer);
 };
