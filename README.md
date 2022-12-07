@@ -41,3 +41,11 @@
 
 <h2>Демонстрация игры "НОД":</h2>
 <a href="https://asciinema.org/a/uDkjhpT2ro5f0VumYj6n9iDKj" target="_blank"><img src="https://asciinema.org/a/uDkjhpT2ro5f0VumYj6n9iDKj.svg" /></a>
+
+<h2>Игра "Арифметическая прогрессия"</h2>
+Запуск игры: <span>brain-prog</span>
+
+Нужно определить, какое число пропущено в арифметической прогрессии.
+
+<h2>Демонстрация игры "Арифметическая прогрессия":</h2>
+<a href="https://asciinema.org/a/PV2Zecmam1ADNoA9TaIGkAE2Q" target="_blank"><img src="https://asciinema.org/a/PV2Zecmam1ADNoA9TaIGkAE2Q.svg" /></a>
