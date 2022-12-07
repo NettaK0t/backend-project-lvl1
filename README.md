@@ -24,3 +24,11 @@
 
 <h2>Демонстрация игры "Проверка на чётность":</h2>
 <a href="https://asciinema.org/a/UIFkT9S5kP4Vqq8vkcJ6BYLhb" target="_blank"><img src="https://asciinema.org/a/UIFkT9S5kP4Vqq8vkcJ6BYLhb.svg" /></a>
+
+<h2>Игра "Калькулятор"</h2>
+Запуск игры: brain-even
+
+Показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
+
+<h2>Демонстрация игры "Калькулятор":</h2>
+<a href="https://asciinema.org/a/Lpq9Z0Chu6Yuqex09NAoWV5Qx" target="_blank"><img src="https://asciinema.org/a/Lpq9Z0Chu6Yuqex09NAoWV5Qx.svg" /></a>
