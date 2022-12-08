@@ -18,8 +18,9 @@ const getCorrectAnswer = (operand1,operand2,operation) => {
 }
 
 const getQuestionAndAnswer = () => {
-    const operand1 = getRandomNumber(0,10);
-    const operand2 = getRandomNumber(0,10);
+    const maxRandNum = 20;
+    const operand1 = getRandomNumber(0,maxRandNum);
+    const operand2 = getRandomNumber(0,maxRandNum);
     const operation = operations[getRandomNumber(0,operations.length)];
     const question = `${operand1}${operation}${operand2}:`;
     const answer = getCorrectAnswer(operand1,operand2, operation);
