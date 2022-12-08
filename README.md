@@ -49,3 +49,10 @@
 ## Демонстрация игры "Арифметическая прогрессия":
 <a href="https://asciinema.org/a/PV2Zecmam1ADNoA9TaIGkAE2Q" target="_blank"><img src="https://asciinema.org/a/PV2Zecmam1ADNoA9TaIGkAE2Q.svg" /></a>
 
+## Игра "Простое ли число?"
+Запуск игры: `brain-prime`
+
+Нужно определить, является ли число простым.
+
+##Демонстрация игры "Простое ли число?":
+<a href="https://asciinema.org/a/LphZXl1s4vYWnd9ovoqvUyyDA" target="_blank"><img src="https://asciinema.org/a/LphZXl1s4vYWnd9ovoqvUyyDA.svg" /></a>
