@@ -11,7 +11,7 @@ const getCorrectAnswer = (operand1, operand2, operation) => {
       break;
     case '-': answer = operand1 - operand2;
       break;
-    case '*': answer = operand1 * operand2;
+    default: answer = operand1 * operand2;
       break;
   }
   return answer;
