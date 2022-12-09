@@ -9,9 +9,9 @@ const getGCD = (num1, num2) => {
 };
 
 const getQuestionAndAnswer = () => {
-  const maxRandNum = 20;
-  const num1 = getRandomNumber(0, maxRandNum);
-  const num2 = getRandomNumber(0, maxRandNum);
+  const maxRandomNumber = 20;
+  const num1 = getRandomNumber(0, maxRandomNumber);
+  const num2 = getRandomNumber(0, maxRandomNumber);
 
   const question = `${num1} ${num2}`;
   const answer = getGCD(num1, num2);

@@ -12,8 +12,8 @@ const isPrime = (num) => {
 };
 
 const getQuestionAndAnswer = () => {
-  const maxRandNum = 179;
-  const question = getRandomNumber(0, maxRandNum);
+  const maxRandomNumber = 179;
+  const question = getRandomNumber(0, maxRandomNumber);
   const answer = isPrime(question) ? 'yes' : 'no';
   return [question, String(answer)];
 };

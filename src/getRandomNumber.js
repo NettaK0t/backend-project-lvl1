@@ -1,5 +1,3 @@
-const maxNumR = 100;
-const minNumR = 0;
+const getRandomNumber = (min, max) => Math.trunc(Math.random() * max) + min;
 
-const getRand = (minNum = minNumR, maxNum = maxNumR) => Math.trunc(Math.random() * maxNum) + minNum;
-export default getRand;
+export default getRandomNumber;
